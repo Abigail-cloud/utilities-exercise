@@ -1,7 +1,5 @@
 /*Using Exports method*/
 
-const { __esModule } = require("node-fetch");
-
 //find the largest number in an array
 exports.largeNumber = (arr) => {
     let largest = 0;
