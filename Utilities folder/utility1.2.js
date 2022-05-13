@@ -1,5 +1,3 @@
-/*Using Module Exports method*/
-
 // add numbers in an array
 const sum = (arr) => {
     arr = [5, 6, 7, 8]
